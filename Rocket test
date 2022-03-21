@@ -1,3 +1,5 @@
+// So this code is in working progress and is for tvc model rockets. You need an Arduino Nano for main board. more about the bord: https://www.youtube.com/watch?v=P_XXdWr-RPM&ab_channel=BRrocketssystem
+
 #include<Wire.h>
 #include<Servo.h>
 #include <SPI.h>
